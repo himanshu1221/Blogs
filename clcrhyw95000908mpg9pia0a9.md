@@ -194,7 +194,7 @@ Open Source is not just about code. It is about people, communication and collab
 
 # Conclusion
 
-I have learned a lot and personally have gained very much confidence where I find myself very much comfortable with open source and motivated me to contribute more and more towards it from my end my conclusion would be that everyone should contribute to open source as it is genuinely awesome and you learn a lot from it, new people, new ideas, new learnings and many more!
+I have learned a lot and personally have gained much confidence to the point where I find myself very much comfortable with open source and motivated me to contribute more and more towards it from my end my conclusion would be that everyone should contribute to open source as it is genuinely awesome and you learn a lot from it, new people, new ideas, new learnings and many more!
 
 # Credits :
 
