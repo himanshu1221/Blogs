@@ -1,6 +1,6 @@
 ---
 title: "Breaking Into The World Of Open Source 💥"
-seoTitle: "open source"
+seoTitle: "Breaking into the world of open source 💥"
 seoDescription: "Opensource,oss,webdev,foss,intro to oss,intro to open source"
 datePublished: Mon Mar 06 2023 07:55:38 GMT+0000 (Coordinated Universal Time)
 cuid: clewj2crg000509moedcjasm9
