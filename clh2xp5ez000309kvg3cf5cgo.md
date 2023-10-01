@@ -1,12 +1,11 @@
 ---
 title: "Struggling to find Open Source Projects?"
-seoTitle: "opensource,opensourceprojects,projects,findossprojects"
 datePublished: Sun Apr 30 2023 04:51:18 GMT+0000 (Coordinated Universal Time)
 cuid: clh2xp5ez000309kvg3cf5cgo
 slug: struggling-to-find-open-source-projects
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1682822939195/7695af9c-e0ae-4b1c-baae-f9b4ad456466.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1682830237318/a91aefb1-1d52-4640-9ecf-cc985e42d89f.png
-tags: opensource, projects, oss
+tags: opensource
 
 ---
 
